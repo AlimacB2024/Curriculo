@@ -7,3 +7,8 @@ id-> único (é sempre com uma #)*/
     flex-direction: row;   
 
 }
+
+.Experiência{
+    border-style: dotted;
+    border-color: blue;
+}
